@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Extreme Heli Boarding Y8
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Extreme%20Heli%20Boarding%20Y8&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Extreme Heli Boarding Y8 Header Banner" />
+
+  <h1>🚀 Extreme Heli Boarding Y8</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/extreme-heli-boarding-y8"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Extreme Heli Boarding Y8** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,87 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Extreme Heli Boarding Y8 - Play Online for Free
-
-## Overview
-Play Extreme Heli Boarding Y8 online for free. Unblocked and available on all devices. Experience the best Extreme Heli Boarding Y8 gameplay now!
-
-### Game Details & Guide
-Extreme Heli Boarding
-
-
-Game Overview
-
-
-
-Extreme Helicopter Boarding Y8 is a free browser-based video game developed by Epic Games, based on their Unreal Engine 4 technology.
-
-
-The game features fast-paced action, high-speed helicrafts, and realistic graphics. Players must navigate through treacherous terrain to reach the destination while avoiding obstacles and rival pilots.
-
-
-
-How to Play
-
-
-
-To start playing, simply click on a heliport in the starting area. The helicopter will automatically take off and soar into the air, where players can control it using the mouse wheel or keyboard keys.
-
-
-Players must then navigate their helicopter through increasingly difficult terrain, avoiding hazards such as trees, rocks, and debris. The objective is to reach the designated drop zone while maintaining a high speed and minimizing damage to the aircraft.
-
-
-
-Tips and Tricks for Success
-
-
-
-
-
-    
-Use your mouse wheel to accelerate or brake quickly.
-
-    
-Keep an eye on your fuel level, as running out of fuel can lead to a crash.
-
-    
-Watch out for other players in the same area; avoid collisions and engage in aerial combat if necessary.
-
-    
-Use your surroundings to your advantage; fly low over obstacles to clear them before landing or driving through narrow paths.
-
-
-
-
-
-
-
-
-
-Extreme Helicopter Boarding offers an engaging experience with its addictive gameplay, stunning graphics, and simple yet challenging controls. The game's fast-paced action and high-speed helicrafts make it perfect for players who enjoy adrenaline-pumping games.
-
-
-The game also features a single-player mode, where players can progress through levels to unlock new areas and upgrades. Additionally, the game has online multiplayer capabilities, allowing players to compete with others in real-time.
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
